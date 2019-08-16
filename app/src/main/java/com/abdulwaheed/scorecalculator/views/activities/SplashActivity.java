@@ -16,6 +16,6 @@ public class SplashActivity extends BaseActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
-        new Handler().postDelayed(() -> navigate(MainActivity.class), SPLASH_DISPLAY_LENGTH);
+        new Handler().postDelayed(() -> navigate(TeamEntryActivity.class), SPLASH_DISPLAY_LENGTH);
     }
 }

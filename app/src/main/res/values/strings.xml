@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Score Calculator</string>
+    <string name="hint_first_team_name">Enter First Team Name</string>
+    <string name="hint_second_team_name">Enter Second Team Name</string>
+    <string name="text_start_match">Start Match</string>
+    <string name="text_event_name" />
+    <string name="hint_event_name">Enter Event Name</string>
+    <string name="error_empty_event_name">Event name cannot be empty!</string>
+    <string name="error_empty_first_team">First team name required!</string>
+    <string name="error_empty_second_team">Second team required!</string>
+    <string name="hint_number_of_over_in_match">Overs In A Match</string>
+    <string name="hint_number_of_overs_per_baller">Number Of Over Per Bowler Allowed</string>
+    <string name="text_match_specifications">Match Specifications</string>
+    <string name="text_done">Done</string>
+    <string name="error_empty_overs_in_a_match">You must define number of Overs!</string>
+    <string name="error_empty_overs_allowed_a_bowler">You must define number of Overs allowed to a bowler!</string>
 </resources>

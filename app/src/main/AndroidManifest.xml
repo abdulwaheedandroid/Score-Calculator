@@ -17,6 +17,8 @@
             </intent-filter>
         </activity>
 
+        <activity android:name=".activities.TeamEntryActivity"/>
+        <activity android:name=".activities.CriteriaActivity"/>
         <activity android:name=".activities.MainActivity"/>
 
     </application>
